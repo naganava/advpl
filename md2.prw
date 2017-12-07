@@ -113,4 +113,4 @@ cTudoOk  := "ExecBlock('Md2TudOk',.f.,.f.)"
 // lRet = .f. se cancelou
 lRet:=Modelo2(cTitulo,aC,aR,aCGD,nOpcx,cLinhaOk,cTudoOk)
 Return
-
+//teste
